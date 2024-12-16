@@ -1,2 +1,2 @@
 # Wordle
-英语单词为Wordle填字游戏
+英语单词Wordle填字游戏
